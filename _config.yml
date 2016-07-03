@@ -1,4 +1,3 @@
-layout_spectrum: 0.7495924946852028
 typography_spectrum: 0.3314134629908949
 color:
   brandStrength: 0.44991398323327303
@@ -11,4 +10,13 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
+layout_spectrum: 0.7495924946852028
+author:
+  name: Matthew Lanter
+  email: mlanter25@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fff54b2-f7b1-4bcf-9f84-06f06311ba44.png
 name: MatthewCreativist
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2cc6047-f6c5-40cd-89d7-ec4ca5f81ed7.png
+title: '"Desirony"=Designing with irony'
