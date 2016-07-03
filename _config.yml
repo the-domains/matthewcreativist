@@ -6,9 +6,9 @@ color:
   saturation: 0.8282125415280461
   rhythmicContrast: 0.7129212229046971
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 name: MatthewCreativist
